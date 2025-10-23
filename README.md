@@ -99,16 +99,6 @@ The multiple regression analysis was used to evaluate how `credit_score`, `month
 
 ## 📉 Dashboard Visualizations
 
-### Excel Dashboard
-![WhatsApp Image 2025-10-17 at 23 06 42_71669dac](https://github.com/user-attachments/assets/a805a242-5509-4c82-a4ee-517bba6f4fb3)
-
-*Figure 1. Loan Portfolio Dashboard (Excel)*  
-
-### Power BI Dashboard
-<img width="1262" height="729" alt="image" src="https://github.com/user-attachments/assets/93dee289-70d7-4e86-95fb-6a116619bd39" />
-  
-*Figure 2. Loan Portfolio Dashboard (Power BI)*  
-
 Both dashboards include:
 - KPI cards for major loan metrics  
 - Pie, bar, and line charts for segmentation and performance  
