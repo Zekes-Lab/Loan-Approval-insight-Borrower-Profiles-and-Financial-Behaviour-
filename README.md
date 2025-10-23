@@ -1,5 +1,6 @@
 # 🏦 Loan Approval insight: Borrower Profiles and Financial Behaviour
 
+![Image](https://github.com/user-attachments/assets/9c05acf3-305d-41f8-a3df-68d15d7dc907
 
 This project provides a detailed **Analysis and visualization** built using **Excel** and **Power BI**
 The analysis focused on loan distribution,customer segmentation by( age, gender, education, employement status), repayment behavior, and credit risk patterns using a real-world loan dataset.
