@@ -1,4 +1,7 @@
 # 🏦 Loan Approval insight: Borrower Profiles and Financial Behaviour
+![Image](https://github.com/user-attachments/assets/4e76dada-0293-43fe-befa-4c31e897e4d3)
+
+---
 
 
 This project provides a detailed **Analysis and visualization** built using **Excel** and **Power BI**
